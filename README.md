@@ -1,5 +1,5 @@
 # Purr-Slime
-@Alellv
+
 This case is heavily based on Smelties Hyperion https://github.com/Smeltie/Hyperion but trying to fix the strap part (i read that it tends to break) but i wasn't able to make it as pretty :3 
 
 # **WARNING**
@@ -22,4 +22,4 @@ If my obviously well written explanation (/s) is not clear enough for you try se
 
 
 If i find some motivation i might add some videos/photos of the process, and if i have time i will fix the issues above
-If you have any doubts, recommendations, or help dm me on discord :3, or join the discord server, the DIY community there is really nice
+If you have any doubts, recommendations, or help dm me on discord :3 @Alellv , or join the discord server, the DIY community there is really nice
