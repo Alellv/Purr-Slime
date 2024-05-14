@@ -20,6 +20,9 @@ If my obviously well written explanation (/s) is not clear enough for you try se
 
 # Pictures
 
+![DSC05442](https://github.com/Alellv/Purr-Slime/assets/148279307/54b356a4-c44e-4838-af0b-20f90b4185a1)
+![DSC05440](https://github.com/Alellv/Purr-Slime/assets/148279307/27e676be-37f1-4581-b42c-d6097fbe67e7)
+
 
 If i find some motivation i might add some videos/photos of the process, and if i have time i will fix the issues above
 If you have any doubts, recommendations, or help dm me on discord :3 @Alellv , or join the discord server, the DIY community there is really nice
